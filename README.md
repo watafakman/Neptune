@@ -33,6 +33,7 @@
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Discord Multi Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+and Source Code is 10$ 💰
 
 ## Features  <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
