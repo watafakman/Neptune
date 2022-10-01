@@ -73,7 +73,7 @@ $ python3 neptune.py
 ## Additional Informations 
 General Informations:
 > Find your output files in the output folder 📁
-> If you find any malfunction, contact me on Discord: Rdmo1#
+> If you find any malfunction, contact me on Discord: Rdmo1#1389
 
 ## Tutorial 🔦
 - ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
