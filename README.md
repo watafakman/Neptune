@@ -73,7 +73,7 @@ $ python3 neptune.py
 ## Additional Informations 
 General Informations:
 > Find your output files in the output folder 📁
-> If you find any malfunction, contact me on Discord: Rdmo1#3333
+> If you find any malfunction, contact me on Discord: Rdmo1#
 
 ## Tutorial 🔦
 - ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
@@ -81,7 +81,7 @@ General Informations:
 ## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
-> try to reinstall python, if not work contact me on discord!: Rdmo1#3333
+> try to reinstall python, if not work contact me on discord!: Rdmo1#1389
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
